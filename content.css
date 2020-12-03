@@ -1,0 +1,137 @@
+
+/* Navbar */
+
+.div-navbar {
+    background-color: black;
+    padding: 15px;
+    
+}
+
+.nav-bar li {
+    list-style-type: none;
+    display: inline;
+    color: white;
+    font-family: Verdana;
+    padding: 15px;
+    
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    background-color: blue;
+}
+
+a:hover {
+    background-color: lightslategray;
+}
+
+
+/* End Navbar */
+
+
+/*Images*/
+
+.hello-image {
+    height: 300px;
+    width: 700px;
+}
+
+.Contact-image {
+    height: 300px;
+    width: 700px;
+}
+
+/* End Images */
+
+.website-title {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    
+}
+
+.contact-us {
+    text-align: center;
+}
+
+.second-website-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    background-color: lightslategray;
+    color: white;
+    margin: 0;
+}
+
+.main-content {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.second-main-content {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+/* About page */
+
+.about-list {
+    font-size: 35px;
+}
+
+
+
+/* Bottom Footer */
+
+.bottom-footer {
+    background-color: black;
+    padding: 15px;
+    
+}
+
+/* contact us webpage */
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: magenta;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: lightslategray;
+  padding: 20px;
+}
